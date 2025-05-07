@@ -1,0 +1,10 @@
+{
+    "users" : [
+        {
+            "steam_id":"",
+            "name":"",
+            "pass":"",
+            "token":""
+        }
+    ]
+}
